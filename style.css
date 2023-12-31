@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(111, 54, 234);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.display-container{
+    height: 50px;
+    width: 400px;
+    border: 2px solid black;
+    background-color: rgb(71, 0, 147);
+    padding: 6px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.passwordlength{
+    display: flex;
+    font-size: 30px;
+    justify-content: space-between;
+    width: 400px;
+}
+
+
+
+.slider{
+    size: 100px;
+}
