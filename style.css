@@ -41,3 +41,22 @@
 .slider{
     size: 100px;
 }
+
+
+
+/* .indicator{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+
+
+#circle{
+    border: 2px solid black;
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    box-shadow: white ;
+} */
